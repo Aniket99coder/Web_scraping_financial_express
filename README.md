@@ -1,1 +1,2 @@
 # Web_scrapping_financial_express
+Simple scraper developed using Beautiful soup to scrape stock headline from financial times.The scrapers scrapes the news headline along with the news in brief ,the link to the news and the date on which the article was published.These are the only details which were of my prime focus.I wished to use this data to run a sentimental analysis and help my deep learning model to predict the stock price having taken insights which influence the bid of a share.This project is a very small part of my text based NLP model to predict the Stock Price.
